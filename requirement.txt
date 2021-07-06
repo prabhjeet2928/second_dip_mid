@@ -11,4 +11,6 @@ pandas>=0.19
 flasgger==0.9.4
 streamlit>=0.84.0
 Pillow
+opencv
 opencv-contrib-python-headless
+opencv-contrib-python
